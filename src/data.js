@@ -83,7 +83,7 @@ export const projects = [
 ]
 
 export const about = [
-  'I completed my MCA at Amity University, Lucknow, in 2026 and now work as a research intern at IIT Kanpur.',
+  'I completed my MCA at Amity University, Lucknow, in 2026, then spent four months at IIT Kanpur — first as a Research Intern building HCL SATHEE, then as Assistant Manager with the Dean of Resources & Alumni office.',
   'Most of what I know comes from shipping one real product and fixing it when it broke — security bugs, hosting limits, emails landing in spam. I like work where the code has actual users.',
 ]
 
