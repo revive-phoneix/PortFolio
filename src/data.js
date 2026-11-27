@@ -13,6 +13,7 @@ export const profile = {
   intro:
     'React on the front, Node.js and Express behind it, Firebase or MongoDB underneath. Right now I’m the only developer on HCL SATHEE, a portal used by coaching centres in three states.',
   email: 'manasdixit4100@gmail.com',
+  github: 'https://github.com/revive-phoneix',
   linkedin: 'https://www.linkedin.com/in/manas-dixit-840b30276',
   // CV page generated from this file (resume.html). Set to null to hide the links.
   resume: '/resume.html',

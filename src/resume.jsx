@@ -39,6 +39,7 @@ function Resume() {
           <ul className="cv-contact">
             <li><span>Email</span><a href={`mailto:${profile.email}`}>{profile.email}</a></li>
             <li><span>LinkedIn</span><a href={profile.linkedin}>{bare(profile.linkedin)}</a></li>
+            {profile.github && <li><span>GitHub</span><a href={profile.github}>{bare(profile.github)}</a></li>}
             {site && !site.includes('localhost') && <li><span>Portfolio</span><a href={site}>{bare(site)}</a></li>}
           </ul>
         </header>
